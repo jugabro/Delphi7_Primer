@@ -1,0 +1,14 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+[OPTIONS]
+LCID=0x419 0x0 0x0 ; Русский
+REPORT=Yes
+HLP=sqroot.hlp
+
+[FILES]
+sqroot.rtf
+
+[MAP]
+IDH_1=1               ; Квадратное уравнение
+IDH_2=2               ; Дискриминант
+IDH_3=3               ; Корни уравнения

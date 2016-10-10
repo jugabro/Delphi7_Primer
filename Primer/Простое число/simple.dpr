@@ -1,0 +1,13 @@
+program simple;
+
+uses
+  Forms,
+  simple_ in 'simple_.pas' {Form1};
+
+{$R *.RES}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.
